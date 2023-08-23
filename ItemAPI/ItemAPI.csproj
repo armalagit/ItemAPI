@@ -8,6 +8,14 @@
     <Title>Rappelz ItemAPI for 9.5.2</Title>
     <Company>Armala</Company>
     <Description>This package help you to convert an [ItemResource] and [Item] entry to a readable format. </Description>
+<<<<<<< HEAD
+    <PackageProjectUrl>https://github.com/armalagit/ItemAPI</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/armalagit/ItemAPI</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>rappelz, item, itemresource</PackageTags>
+    <NeutralLanguage>en-001</NeutralLanguage>
+=======
+>>>>>>> a9e0f9721e9fe8a8af0a21e04e7f512b968a4c2a
   </PropertyGroup>
 
   <ItemGroup>
